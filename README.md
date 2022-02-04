@@ -1,4 +1,4 @@
-                                                            Vaim-Samay File Editor Pro
+                                                     Vaim-Samay File Editor Pro
 ## File Editor Pro
 
 You Can Easily Edit File unlimitedly ! Stay here the updates will be
